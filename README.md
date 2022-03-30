@@ -1,4 +1,4 @@
-# Wine-Qulity-Prediction
+# Wine-Quality-Prediction
 
 ### Fractal Analytics Test
 
